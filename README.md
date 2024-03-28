@@ -4,4 +4,4 @@
 ## Capitole:
 ### Lab 1 - A Star Algorithm
 ### Lab 2 - Local Search, N Queens Problem, Hill Climbing, First Choice HC, Random Restart HC
-### Lab 3
+### Lab 3 - Satisfacerea parțială a restricțiilor (PCSP)
