@@ -8,3 +8,8 @@
 ### Lab 4 - MCTS, Connect Four
 ### Lab 5 - Naive Bayes (seminar de fapt)
 ### Lab 6 - Variable Elimination
+### Lab 7 - Random Forest (ID3)
+### Lab 8 - Linear Regression
+### Lab 9 - Logistic Regression
+### Lab 10 - Rețele Convoluționale
+### Lab 11 - NLP-Sentiment-Analysis
